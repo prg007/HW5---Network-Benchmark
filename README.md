@@ -110,7 +110,7 @@ randomly measure 7000 of them. We chose 7000 because it struck a balance between
 not accounting for every request that came in while still having somewhat interpretable data.
 Nevertheless, we obtained a somewhat polished distribution:
 
-![Graph for Latency Part 2](https://github.com/prg007/HW5---Network-Benchmark/blob/master/latency.png")
+![Graph for Latency Part 2](https://github.com/prg007/HW5---Network-Benchmark/blob/master/latency.png)
 
 In the above graph, the x-axis is the latency (ms) while the y-axis
 is the cumulative frequency. In other words, for any point x, the corresponding y value is the number of latencies
